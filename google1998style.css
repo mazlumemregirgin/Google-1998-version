@@ -1,0 +1,53 @@
+.container{
+    margin: auto;
+}
+.logo img{
+    display: block;
+    margin: auto;
+}
+.search-area{
+    margin: auto;
+    background-color: #eee;
+    text-align: center;
+    width: 1211px;
+    
+}
+.search-text{
+    width: 300px;
+}
+.linksarea{
+    margin: auto;
+    width: 1211px;
+    height: 76px;
+    margin-top: 2px;
+}
+.box-1{
+    padding-top: 10px;
+    margin-right:2px;
+    height: 66px;
+    text-align: center;
+    float: left;
+    width: 446px;
+    background-color: #7ee5da;
+}
+.box-2{
+    margin-right: 2px;
+    height: 76px;
+    text-align: center;
+    float: left;
+    width: 235px;
+    background-color: #70ccc2;
+}
+.box-3{
+    height: 76px;
+    text-align: center;
+    float: left;
+    width: 524px;
+    background-color: #62b3aa;
+}
+.box-2 a{
+    font-size: small;
+}
+.box-3{
+    font-size: small;
+}
